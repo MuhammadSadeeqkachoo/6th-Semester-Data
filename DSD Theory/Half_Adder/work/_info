@@ -1,0 +1,82 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vHA
+Z0 !s110 1708148363
+!i10b 1
+!s100 @GeRgfOWic>:Wl?>1QgLA0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Igg_^;iD`Q2L7:g4@CY0zG3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/6th Semester/DSD Theory/Half_Adder
+w1708147403
+8D:/6th Semester/DSD Theory/Half_Adder/HA.v
+FD:/6th Semester/DSD Theory/Half_Adder/HA.v
+!i122 0
+L0 1 9
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1708148363.000000
+!s107 D:/6th Semester/DSD Theory/Half_Adder/HA.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/6th Semester/DSD Theory/Half_Adder/HA.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+n@h@a
+vtop_level
+R0
+!i10b 1
+!s100 bzO>KgCGA8nC[2zXV0G]N2
+R1
+IYI?TN;jEJd[GC_dI4MQ>03
+R2
+R3
+w1708147933
+8D:/6th Semester/DSD Theory/Half_Adder/top_level.v
+FD:/6th Semester/DSD Theory/Half_Adder/top_level.v
+!i122 1
+L0 1 8
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/6th Semester/DSD Theory/Half_Adder/top_level.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/6th Semester/DSD Theory/Half_Adder/top_level.v|
+!i113 1
+R6
+R7
+vtst_HA
+R0
+!i10b 1
+!s100 UaWjUFUA19:TH:M[n]El11
+R1
+Ia_kgK5egbCkJ>z80FRIYO0
+R2
+R3
+w1708147413
+8D:/6th Semester/DSD Theory/Half_Adder/tst_HA.v
+FD:/6th Semester/DSD Theory/Half_Adder/tst_HA.v
+!i122 2
+L0 1 18
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/6th Semester/DSD Theory/Half_Adder/tst_HA.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/6th Semester/DSD Theory/Half_Adder/tst_HA.v|
+!i113 1
+R6
+R7
+ntst_@h@a

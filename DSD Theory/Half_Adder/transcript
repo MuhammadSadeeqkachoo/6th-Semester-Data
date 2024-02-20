@@ -1,0 +1,23 @@
+# Compile of HA.v was successful.
+# Compile of top_level.v was successful.
+# Compile of tst_HA.v was successful.
+# 3 compiles, 0 failed with no errors.
+vsim -gui work.top_level
+# vsim -gui work.top_level 
+# Start time: 10:39:34 on Feb 17,2024
+# Loading work.top_level
+# Loading work.HA
+# Loading work.tst_HA
+add wave -position end  sim:/top_level/A
+add wave -position end  sim:/top_level/B
+add wave -position end  sim:/top_level/S
+add wave -position end  sim:/top_level/Cy
+run
+#                    0, A=x, B=x, S=x, Cy=x
+#                   10, A=0, B=0, S=0, Cy=0
+#                   20, A=0, B=1, S=1, Cy=0
+#                   30, A=1, B=0, S=1, Cy=0
+#                   40, A=1, B=1, S=0, Cy=1
+quit -sim
+# End time: 10:41:51 on Feb 17,2024, Elapsed time: 0:02:17
+# Errors: 0, Warnings: 5

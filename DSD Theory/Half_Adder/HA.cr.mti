@@ -1,0 +1,22 @@
+{D:/6th Semester/DSD Theory/Half_Adder/HA.v} {1 {vlog -work work -stats=none {D:/6th Semester/DSD Theory/Half_Adder/HA.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module HA
+
+Top level modules:
+	HA
+
+} {} {}} {D:/6th Semester/DSD Theory/Half_Adder/top_level.v} {1 {vlog -work work -stats=none {D:/6th Semester/DSD Theory/Half_Adder/top_level.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module top_level
+
+Top level modules:
+	top_level
+
+} {} {}} {D:/6th Semester/DSD Theory/Half_Adder/tst_HA.v} {1 {vlog -work work -stats=none {D:/6th Semester/DSD Theory/Half_Adder/tst_HA.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tst_HA
+
+Top level modules:
+	tst_HA
+
+} {} {}}
